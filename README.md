@@ -1,5 +1,13 @@
 # XMPPClient
 
+![Spark -> Android](https://github.com/Neil2847/XMPPClient/blob/master/spark%20client%20to%20android%20client.png)
+
+![Android -> Spark](https://github.com/Neil2847/XMPPClient/blob/master/android%20client%20to%20spark%20client%201.png)
+
+![Android -> Spark](https://github.com/Neil2847/XMPPClient/blob/master/android%20client%20to%20spark%20client%202.png)
+
+<br>
+
 ## 說明
 該端是Client端，若要建置Server端可以使用[Openfire](https://www.igniterealtime.org/projects/openfire/)這裡面來建置，若是要GUI介面可以使用**Spark**這個通訊窗口來做測試與驗證。
 
